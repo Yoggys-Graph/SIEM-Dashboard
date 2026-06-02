@@ -16,7 +16,7 @@ This project is designed to:
 ## 🖼️ Project Preview
 
 ### 🔹 Dashboard View
-![Dashboard](https://photos.app.goo.gl/QD4qRjuaYuot7sQi6)
+![Dashboard](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-1.png)
 
 ### 🔹 Feature / Result Screenshot
 ![Feature](assets/images/feature.png)
