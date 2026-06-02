@@ -7,37 +7,35 @@
 ## 📌 Overview
 
 This project is designed to:
-- ✅ Solve the problem of 
-- ✅ Demonstrate...
-- ✅ Showcase...
+- ✅ Show the copied IP address that posed threat on SIEM dashboard.
+- ✅ And paste it in the firewall texts box to block the IP address.
+- ✅ Detect and showcase the location of the IP address.
 
 ---
 
 ## 🖼️ Project Preview
 
-### 🔹 Dashboard View
+### 🔹 SIEM Dashboard View
 ![Dashboard](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-1.png)
 
-### 🔹 Feature / Result Screenshot
-![Feature](assets/images/feature.png)
+### 🔹 IP Hunter / Result Screenshot
+![Feature](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-2.png)
 
 ---
 
 ## 🎯 Features
 
 - 🔐 Vulnerability Scanning
-- 📊 Data Visualization
-- ⚡ Feature 3
-- 🛠️ Feature 4
+- ⚡ Solidify Blocking
+- 🛠️ Location Detection
 
 ---
 
 ## 🧰 Tools & Technologies
 
 - SIEM Dashboard 
-- Wireshark
-- Tool 3
-- Tool 4
+- Firewall Blocking
+- IP Hunter
 
 ---
 
