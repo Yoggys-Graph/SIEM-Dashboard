@@ -16,7 +16,7 @@ This project is designed to:
 ## 🖼️ Project Preview
 
 ### 🔹 Dashboard View
-![Dashboard](assets/images/dashboard.png)
+![Dashboard](https://photos.app.goo.gl/QD4qRjuaYuot7sQi6)
 
 ### 🔹 Feature / Result Screenshot
 ![Feature](assets/images/feature.png)
