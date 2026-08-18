@@ -19,10 +19,10 @@ This project is designed to:
 ![Dashboard](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-1.png)
 
 ### 🔹 IP Hunter / Result Screenshot
-![Feature](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-2.png)
+![Dashboard](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-2.png)
 
 ### 🔹 Overview 
-![Feature](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-3.png)
+![Dashboard](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-3.png)
 
 ---
 
